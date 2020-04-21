@@ -1,108 +1,108 @@
 /*
 **************************************************************************************************************************************************
-															ÀîÎ°¿µ_1240069
-//ÄÚÈİ£ºµÚÆßÕÂ
-//Ê±¼ä£º2012_12_21
-//1.ÀıÌâ7.1	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£p140
-//2.ÀıÌâ7.2	ÊäÈëÁ½¸öÕûÊı£¬ÒªÇóÓÃÒ»¸öº¯ÊıÇó³öÆäÖĞµÄ´óÕß£¬²¢ÔÚÖ÷º¯ÊıÖĞÊä³ö´ËÖµ¡£p144
-//3.ÀıÌâ7.3	·µ»ØÖµÀàĞÍÓëº¯ÊıÖµÀàĞÍ²»Í¬¡£p146
-//4.ÀıÌâ7.4	¶Ô±»µ÷ÓÃµÄº¯Êı×÷ÉùÃ÷¡£p149
-//5.ÀıÌâ7.5	ÊäÈëËÄ¸öÕûÊı£¬ÕÒ³öÆäÖĞ×î´óµÄÊı¡£p152
-//6.ÀıÌâ7.6	ÓĞÎå¸öÈË×øÔÚÒ»Æğ£¬´ÓµÚÎå¸öÈË¿ªÊ¼£¬ÒÀ´Î±ÈÏÂÒ»¸öÈË´óÁ½Ëê¡£ÒÑÖªµÚÒ»¸öÈËÊÇÊ®Ëê¡£ÎÊµÚÎå¸öÈË¶à´ó¡£p154
-//7.ÀıÌâ7.7	ÓÃµİ¹é·¨Çón£¡¡£p156
-//8.ÀıÌâ7.8	HanoiËşÎÊÌâ¡£p157
-//9.ÀıÌâ7.9	ÓĞÁ½¸öÊı×éaºÍb£¬¸÷ÓĞÊ®¸öÔªËØ£¬½«ËüÃÇ¶ÔÓ¦µØÖğ¸ö±È½Ï¡£ÕÒ³öÆäÖĞµÄ½Ï´óÊı×é£¬²¢·Ö±ğÍ³¼Æ³öÁ½¸öÊı×éÏàÓ¦ÔªËØ´óÓÚ¡¢µÈÓÚºÍĞ¡ÓÚµÄ´ÎÊı¡£p160
-//10.ÀıÌâ7.10ÓĞÒ»¸öÒ»Î¬Êı×éscore,ÄÚ·ÅÊ®¸öÑ§Éú³É¼¨£¬ ÓÃÒ»¸öº¯ÊıÇóÆäÆ½¾ù³É¼¨¡£p161
-//11.ÀıÌâ7.11±àĞ´Ò»¸öº¯Êı£¬ÓÃÀ´·Ö±ğÇóÊı×éscore_1£¨ÓĞ5¸öÔªËØ£©ºÍÊı×éscore_2£¨ÓĞÊ®¸öÔªËØ£©¸÷ÔªËØµÄÆ½¾ùÖµ¡£	p162
-//12.ÀıÌâ7.12	
-//13.ÀıÌâ7.13
-//14.ÀıÌâ7.14
-//15.ÀıÌâ7.15
-//16.ÀıÌâ7.16
-//17.ÀıÌâ7.17
-//18.ÀıÌâ7.18
-//19.ÀıÌâ7.19
-//20.ÀıÌâ7.20
-//1.Ï°Ìâ7.1
-//2.Ï°Ìâ7.2
-//3.Ï°Ìâ7.3
-//4.Ï°Ìâ7.4
-//5.Ï°Ìâ7.5
-//6.Ï°Ìâ7.6
-//7.Ï°Ìâ7.7
-//8.Ï°Ìâ7.8
-//9.Ï°Ìâ7.8
-//10.Ï°Ìâ7.10
-//11.Ï°Ìâ7.11
-//12.Ï°Ìâ7.12
-//13.Ï°Ìâ7.13
-//14.Ï°Ìâ7.14
-//15.Ï°Ìâ7.15
-//16.Ï°Ìâ7.16
-//17.Ï°Ìâ7.17
-//18.Ï°Ìâ7.18
-//±¸×¢£ºÓÉÓÚÊ±¼ä½ôÆÈ£¬ºó¼¸ÕÂµÄÌâÄ¿Ã»¼üÈë
+															æä¼Ÿåº·_1240069
+//å†…å®¹ï¼šç¬¬ä¸ƒç« 
+//æ—¶é—´ï¼š2012_12_21
+//1.ä¾‹é¢˜7.1	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚p140
+//2.ä¾‹é¢˜7.2	è¾“å…¥ä¸¤ä¸ªæ•´æ•°ï¼Œè¦æ±‚ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å‡ºå…¶ä¸­çš„å¤§è€…ï¼Œå¹¶åœ¨ä¸»å‡½æ•°ä¸­è¾“å‡ºæ­¤å€¼ã€‚p144
+//3.ä¾‹é¢˜7.3	è¿”å›å€¼ç±»å‹ä¸å‡½æ•°å€¼ç±»å‹ä¸åŒã€‚p146
+//4.ä¾‹é¢˜7.4	å¯¹è¢«è°ƒç”¨çš„å‡½æ•°ä½œå£°æ˜ã€‚p149
+//5.ä¾‹é¢˜7.5	è¾“å…¥å››ä¸ªæ•´æ•°ï¼Œæ‰¾å‡ºå…¶ä¸­æœ€å¤§çš„æ•°ã€‚p152
+//6.ä¾‹é¢˜7.6	æœ‰äº”ä¸ªäººååœ¨ä¸€èµ·ï¼Œä»ç¬¬äº”ä¸ªäººå¼€å§‹ï¼Œä¾æ¬¡æ¯”ä¸‹ä¸€ä¸ªäººå¤§ä¸¤å²ã€‚å·²çŸ¥ç¬¬ä¸€ä¸ªäººæ˜¯åå²ã€‚é—®ç¬¬äº”ä¸ªäººå¤šå¤§ã€‚p154
+//7.ä¾‹é¢˜7.7	ç”¨é€’å½’æ³•æ±‚nï¼ã€‚p156
+//8.ä¾‹é¢˜7.8	Hanoiå¡”é—®é¢˜ã€‚p157
+//9.ä¾‹é¢˜7.9	æœ‰ä¸¤ä¸ªæ•°ç»„aå’Œbï¼Œå„æœ‰åä¸ªå…ƒç´ ï¼Œå°†å®ƒä»¬å¯¹åº”åœ°é€ä¸ªæ¯”è¾ƒã€‚æ‰¾å‡ºå…¶ä¸­çš„è¾ƒå¤§æ•°ç»„ï¼Œå¹¶åˆ†åˆ«ç»Ÿè®¡å‡ºä¸¤ä¸ªæ•°ç»„ç›¸åº”å…ƒç´ å¤§äºã€ç­‰äºå’Œå°äºçš„æ¬¡æ•°ã€‚p160
+//10.ä¾‹é¢˜7.10æœ‰ä¸€ä¸ªä¸€ç»´æ•°ç»„score,å†…æ”¾åä¸ªå­¦ç”Ÿæˆç»©ï¼Œ ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å…¶å¹³å‡æˆç»©ã€‚p161
+//11.ä¾‹é¢˜7.11ç¼–å†™ä¸€ä¸ªå‡½æ•°ï¼Œç”¨æ¥åˆ†åˆ«æ±‚æ•°ç»„score_1ï¼ˆæœ‰5ä¸ªå…ƒç´ ï¼‰å’Œæ•°ç»„score_2ï¼ˆæœ‰åä¸ªå…ƒç´ ï¼‰å„å…ƒç´ çš„å¹³å‡å€¼ã€‚	p162
+//12.ä¾‹é¢˜7.12	
+//13.ä¾‹é¢˜7.13
+//14.ä¾‹é¢˜7.14
+//15.ä¾‹é¢˜7.15
+//16.ä¾‹é¢˜7.16
+//17.ä¾‹é¢˜7.17
+//18.ä¾‹é¢˜7.18
+//19.ä¾‹é¢˜7.19
+//20.ä¾‹é¢˜7.20
+//1.ä¹ é¢˜7.1
+//2.ä¹ é¢˜7.2
+//3.ä¹ é¢˜7.3
+//4.ä¹ é¢˜7.4
+//5.ä¹ é¢˜7.5
+//6.ä¹ é¢˜7.6
+//7.ä¹ é¢˜7.7
+//8.ä¹ é¢˜7.8
+//9.ä¹ é¢˜7.8
+//10.ä¹ é¢˜7.10
+//11.ä¹ é¢˜7.11
+//12.ä¹ é¢˜7.12
+//13.ä¹ é¢˜7.13
+//14.ä¹ é¢˜7.14
+//15.ä¹ é¢˜7.15
+//16.ä¹ é¢˜7.16
+//17.ä¹ é¢˜7.17
+//18.ä¹ é¢˜7.18
+//å¤‡æ³¨ï¼šç”±äºæ—¶é—´ç´§è¿«ï¼Œåå‡ ç« çš„é¢˜ç›®æ²¡é”®å…¥
 **************************************************************************************************************************************************
 */
-//ÎÊÌâ1£ºÓÉÓÚÊ±¼äÎÊÌâ£¬º¯ÊıËµÃ÷ÓĞµÄ²»×¼È·
+//é—®é¢˜1ï¼šç”±äºæ—¶é—´é—®é¢˜ï¼Œå‡½æ•°è¯´æ˜æœ‰çš„ä¸å‡†ç¡®
 
 
 #include "head.h"
 #include "seventh.h"
 #include <windows.h>
 int system(const char *string);
-int choose7;//¶¨ÒåÈ«¾Ö±äÁ¿
-int choos7;//¶¨ÒåÈ«¾Ö±äÁ¿
+int choose7;//å®šä¹‰å…¨å±€å˜é‡
+int choos7;//å®šä¹‰å…¨å±€å˜é‡
 int number_7()
 {
 start:
-	printf("¡î»¶Ó­½øÈë¡¶C³ÌĞòÉè¼Æ½Ì³Ì¡·µÚÆßÕÂ£¡¡î\n");
+	printf("â˜†æ¬¢è¿è¿›å…¥ã€ŠCç¨‹åºè®¾è®¡æ•™ç¨‹ã€‹ç¬¬ä¸ƒç« ï¼â˜†\n");
 	printf("*******************************************************************************\n");
-	printf("*1. ÀıÌâ7.1 º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Óp140                                            *\n");
-	printf("*2. ÀıÌâ7.2 ÊäÈëÁ½¸öÕûÊı,ÒªÇóÓÃÒ»¸öº¯ÊıÇó³öÆäÖĞµÄ´óÕß,²¢ÔÚÖ÷º¯ÊıÖĞÊä³ö´ËÖµp144*\n");
-	printf("*3. ÀıÌâ7.3 ·µ»ØÖµÀàĞÍÓëº¯ÊıÖµÀàĞÍ²»Í¬p146                                    *\n");
-	printf("*4. ÀıÌâ7.4 ¶Ô±»µ÷ÓÃµÄº¯Êı×÷ÉùÃ÷p149                                          *\n");
-	printf("*5. ÀıÌâ7.5 ÊäÈëËÄ¸öÕûÊı,ÕÒ³öÆäÖĞ×î´óµÄÊıp152                                 *\n");
-	printf("*6. ÀıÌâ7.6 ÓĞÎå¸öÈË×øÔÚÒ»Æğ,´ÓµÚÎå¸öÈË¿ªÊ¼,ÒÀ´Î±ÈÏÂÒ»¸öÈË´óÁ½Ëê.ÒÑÖªµÚÒ»¸öÈË *\n");
-	printf("*   Ê®Ëê.ÎÊµÚÎå¸öÈË¶à´óp154                                                   *\n");
-	printf("*7. ÀıÌâ7.7 ÓÃµİ¹é·¨Çón£¡p156                                                 *\n");
-	printf("*8. ÀıÌâ7.8 HanoiËşÎÊÌâ p157                                                  *\n");
-	printf("*9. ÀıÌâ7.9 ÓĞÁ½¸öÊı×éaºÍb,¸÷Ê®¸öÔªËØ,½«ËüÃÇ¶ÔÓ¦µØÖğ¸ö±È½Ï.ÕÒ³öÆäÖĞµÄ½Ï´óÊı×é,*\n");
-	printf("*   ²¢·Ö±ğÍ³¼Æ³öÁ½¸öÊı×éÏàÓ¦ÔªËØ´óÓÚ|µÈÓÚºÍĞ¡ÓÚµÄ´ÎÊıp160                     *\n");
-	printf("*10.ÀıÌâ7.10ÓĞÒ»¸öÒ»Î¬Êı×éscore,ÄÚ·ÅÊ®¸öÑ§Éú³É¼¨, ÓÃÒ»¸öº¯ÊıÇóÆäÆ½¾ù³É¼¨p161  *\n");
-	printf("*11.ÀıÌâ7.11±àĞ´Ò»¸öº¯Êı,ÓÃÀ´ÇóÊı×éscore_1(ÓĞ5¸öÔªËØ)ºÍÊı×éscore_2(ÓĞÊ®¸öÔª   *\n");
-	printf("*   ËØ)¸÷ÔªËØµÄÆ½¾ùÖµp162                                                     *\n");
-	printf("*12.ÀıÌâ7.12                                                                  *\n");																		  
-	printf("*13.ÀıÌâ7.13                                                                  *\n");																		  
-	printf("*14.ÀıÌâ7.14                                                                  *\n");																		  
-	printf("*15.ÀıÌâ7.15                                                                  *\n");																		  
-	printf("*16.ÀıÌâ7.16                                                                  *\n");																		  
-	printf("*17.ÀıÌâ7.17                                                                  *\n");																		  
-	printf("*18.ÀıÌâ7.18                                                                  *\n");																		  
-	printf("*19.ÀıÌâ7.19                                                                  *\n");																	      
-	printf("*20.ÀıÌâ7.20                                                                  *\n");
-	printf("*21.Ï°Ìâ7.1                                                                   *\n");
-	printf("*22.Ï°Ìâ7.2                                                                   *\n");
-	printf("*23.Ï°Ìâ7.3                                                                   *\n");
-	printf("*24.Ï°Ìâ7.4                                                                   *\n");
-	printf("*25.Ï°Ìâ7.5                                                                   *\n");
-	printf("*26.Ï°Ìâ7.6                                                                   *\n");
-	printf("*27.Ï°Ìâ7.7                                                                   *\n");
-	printf("*28.Ï°Ìâ7.8                                                                   *\n");
-	printf("*29.Ï°Ìâ7.9                                                                   *\n");
-	printf("*30.Ï°Ìâ7.10                                                                  *\n");
-	printf("*31.Ï°Ìâ7.11                                                                  *\n");
-	printf("*32.Ï°Ìâ7.12                                                                  *\n");
-	printf("*33.Ï°Ìâ7.13                                                                  *\n");
-	printf("*34.Ï°Ìâ7.14                                                                  *\n");
-	printf("*35.Ï°Ìâ7.15                                                                  *\n");
-	printf("*36.Ï°Ìâ7.16                                                                  *\n");
-	printf("*37.Ï°Ìâ7.17                                                                  *\n");
-	printf("*38.Ï°Ìâ7.18                                                                  *\n");
-	printf("*39.·µ»ØÖ÷²Ëµ¥                                                                *\n");
-	printf("*40.ÍË³ö                                                                      *\n");
+	printf("*1. ä¾‹é¢˜7.1 å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­p140                                            *\n");
+	printf("*2. ä¾‹é¢˜7.2 è¾“å…¥ä¸¤ä¸ªæ•´æ•°,è¦æ±‚ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å‡ºå…¶ä¸­çš„å¤§è€…,å¹¶åœ¨ä¸»å‡½æ•°ä¸­è¾“å‡ºæ­¤å€¼p144*\n");
+	printf("*3. ä¾‹é¢˜7.3 è¿”å›å€¼ç±»å‹ä¸å‡½æ•°å€¼ç±»å‹ä¸åŒp146                                    *\n");
+	printf("*4. ä¾‹é¢˜7.4 å¯¹è¢«è°ƒç”¨çš„å‡½æ•°ä½œå£°æ˜p149                                          *\n");
+	printf("*5. ä¾‹é¢˜7.5 è¾“å…¥å››ä¸ªæ•´æ•°,æ‰¾å‡ºå…¶ä¸­æœ€å¤§çš„æ•°p152                                 *\n");
+	printf("*6. ä¾‹é¢˜7.6 æœ‰äº”ä¸ªäººååœ¨ä¸€èµ·,ä»ç¬¬äº”ä¸ªäººå¼€å§‹,ä¾æ¬¡æ¯”ä¸‹ä¸€ä¸ªäººå¤§ä¸¤å².å·²çŸ¥ç¬¬ä¸€ä¸ªäºº *\n");
+	printf("*   åå².é—®ç¬¬äº”ä¸ªäººå¤šå¤§p154                                                   *\n");
+	printf("*7. ä¾‹é¢˜7.7 ç”¨é€’å½’æ³•æ±‚nï¼p156                                                 *\n");
+	printf("*8. ä¾‹é¢˜7.8 Hanoiå¡”é—®é¢˜ p157                                                  *\n");
+	printf("*9. ä¾‹é¢˜7.9 æœ‰ä¸¤ä¸ªæ•°ç»„aå’Œb,å„åä¸ªå…ƒç´ ,å°†å®ƒä»¬å¯¹åº”åœ°é€ä¸ªæ¯”è¾ƒ.æ‰¾å‡ºå…¶ä¸­çš„è¾ƒå¤§æ•°ç»„,*\n");
+	printf("*   å¹¶åˆ†åˆ«ç»Ÿè®¡å‡ºä¸¤ä¸ªæ•°ç»„ç›¸åº”å…ƒç´ å¤§äº|ç­‰äºå’Œå°äºçš„æ¬¡æ•°p160                     *\n");
+	printf("*10.ä¾‹é¢˜7.10æœ‰ä¸€ä¸ªä¸€ç»´æ•°ç»„score,å†…æ”¾åä¸ªå­¦ç”Ÿæˆç»©, ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å…¶å¹³å‡æˆç»©p161  *\n");
+	printf("*11.ä¾‹é¢˜7.11ç¼–å†™ä¸€ä¸ªå‡½æ•°,ç”¨æ¥æ±‚æ•°ç»„score_1(æœ‰5ä¸ªå…ƒç´ )å’Œæ•°ç»„score_2(æœ‰åä¸ªå…ƒ   *\n");
+	printf("*   ç´ )å„å…ƒç´ çš„å¹³å‡å€¼p162                                                     *\n");
+	printf("*12.ä¾‹é¢˜7.12                                                                  *\n");																		  
+	printf("*13.ä¾‹é¢˜7.13                                                                  *\n");																		  
+	printf("*14.ä¾‹é¢˜7.14                                                                  *\n");																		  
+	printf("*15.ä¾‹é¢˜7.15                                                                  *\n");																		  
+	printf("*16.ä¾‹é¢˜7.16                                                                  *\n");																		  
+	printf("*17.ä¾‹é¢˜7.17                                                                  *\n");																		  
+	printf("*18.ä¾‹é¢˜7.18                                                                  *\n");																		  
+	printf("*19.ä¾‹é¢˜7.19                                                                  *\n");																	      
+	printf("*20.ä¾‹é¢˜7.20                                                                  *\n");
+	printf("*21.ä¹ é¢˜7.1                                                                   *\n");
+	printf("*22.ä¹ é¢˜7.2                                                                   *\n");
+	printf("*23.ä¹ é¢˜7.3                                                                   *\n");
+	printf("*24.ä¹ é¢˜7.4                                                                   *\n");
+	printf("*25.ä¹ é¢˜7.5                                                                   *\n");
+	printf("*26.ä¹ é¢˜7.6                                                                   *\n");
+	printf("*27.ä¹ é¢˜7.7                                                                   *\n");
+	printf("*28.ä¹ é¢˜7.8                                                                   *\n");
+	printf("*29.ä¹ é¢˜7.9                                                                   *\n");
+	printf("*30.ä¹ é¢˜7.10                                                                  *\n");
+	printf("*31.ä¹ é¢˜7.11                                                                  *\n");
+	printf("*32.ä¹ é¢˜7.12                                                                  *\n");
+	printf("*33.ä¹ é¢˜7.13                                                                  *\n");
+	printf("*34.ä¹ é¢˜7.14                                                                  *\n");
+	printf("*35.ä¹ é¢˜7.15                                                                  *\n");
+	printf("*36.ä¹ é¢˜7.16                                                                  *\n");
+	printf("*37.ä¹ é¢˜7.17                                                                  *\n");
+	printf("*38.ä¹ é¢˜7.18                                                                  *\n");
+	printf("*39.è¿”å›ä¸»èœå•                                                                *\n");
+	printf("*40.é€€å‡º                                                                      *\n");
 	printf("*******************************************************************************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch (choose7)
 	{
@@ -265,8 +265,8 @@ start:
 				goto end;	
 				break;
 		
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -286,19 +286,19 @@ end:
 }
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
 */
 int example7_1()
 {
-	//1.ÀıÌâ7.1	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140
-	printf("1.ÀıÌâ7.1	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140\n");
+	//1.ä¾‹é¢˜7.1	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140
+	printf("1.ä¾‹é¢˜7.1	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140\n");
 	void printstar();
 	void print_message();
 	printstar();
@@ -306,14 +306,14 @@ int example7_1()
 	printstar();
 	printf("\n");
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -327,8 +327,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -362,13 +362,13 @@ void print_message()
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	ÊäÈëÁ½¸öÕûÊı£¬ÒªÇóÒªÇóÓÃÒ»¸öº¯ÊıÇó³öÆäÖĞµÄ´óÕß£¬²¢ÔÚÖ÷º¯ÊıÖĞÊä³ö´ËÖµ
-Ò»°ãĞÎÊ½£º	example2()
-²ÎÊıËµÃ÷£º	int a;
+å‡½æ•°åŠŸèƒ½:	è¾“å…¥ä¸¤ä¸ªæ•´æ•°ï¼Œè¦æ±‚è¦æ±‚ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å‡ºå…¶ä¸­çš„å¤§è€…ï¼Œå¹¶åœ¨ä¸»å‡½æ•°ä¸­è¾“å‡ºæ­¤å€¼
+ä¸€èˆ¬å½¢å¼ï¼š	example2()
+å‚æ•°è¯´æ˜ï¼š	int a;
 			int b;
 			int c;
-·µ »Ø Öµ£º	ÕûÊı
-µ÷ÓÃĞÎÊ½£º	example2()
+è¿” å› å€¼ï¼š	æ•´æ•°
+è°ƒç”¨å½¢å¼ï¼š	example2()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -376,39 +376,39 @@ Date		Name		Create/Correct
 int max_x(int x,int y);	
 int example7_2()
 {
-	//2.ÀıÌâ7.2	ÊäÈëÁ½¸öÕûÊı£¬ÒªÇóÒªÇóÓÃÒ»¸öº¯ÊıÇó³öÆäÖĞµÄ´óÕß£¬²¢ÔÚÖ÷º¯ÊıÖĞÊä³ö´ËÖµ¡£ p144
-	printf("2.ÀıÌâ7.2	ÊäÈëÁ½¸öÕûÊı£¬ÒªÇóÒªÇóÓÃÒ»¸öº¯ÊıÇó³öÆäÖĞµÄ´óÕß£¬²¢ÔÚÖ÷º¯ÊıÖĞÊä³ö´ËÖµ¡£ p144\n");
+	//2.ä¾‹é¢˜7.2	è¾“å…¥ä¸¤ä¸ªæ•´æ•°ï¼Œè¦æ±‚è¦æ±‚ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å‡ºå…¶ä¸­çš„å¤§è€…ï¼Œå¹¶åœ¨ä¸»å‡½æ•°ä¸­è¾“å‡ºæ­¤å€¼ã€‚ p144
+	printf("2.ä¾‹é¢˜7.2	è¾“å…¥ä¸¤ä¸ªæ•´æ•°ï¼Œè¦æ±‚è¦æ±‚ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å‡ºå…¶ä¸­çš„å¤§è€…ï¼Œå¹¶åœ¨ä¸»å‡½æ•°ä¸­è¾“å‡ºæ­¤å€¼ã€‚ p144\n");
 							
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int a;
 	int b;
 	int c;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	a=0;
 	b=0;
 	c=0;
 
-	//3.»ñÈ¡Êı¾İ
-	printf("ÇëÊäÈëÕûÊıa=");
+	//3.è·å–æ•°æ®
+	printf("è¯·è¾“å…¥æ•´æ•°a=");
 	scanf("%d",&a);
-	printf("ÇëÊäÈëÕûÊıb=");
+	printf("è¯·è¾“å…¥æ•´æ•°b=");
 	scanf("%d",&b);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	c=max(a,b);
 
-	//5.Êä³öÊı¾İ
-	printf("Á½Êı£¨%d,%d£©ÖĞµÄ½Ï´óÊıÎª£º%d\n\n",a,b,c);
+	//5.è¾“å‡ºæ•°æ®
+	printf("ä¸¤æ•°ï¼ˆ%d,%dï¼‰ä¸­çš„è¾ƒå¤§æ•°ä¸ºï¼š%d\n\n",a,b,c);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -422,8 +422,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -443,18 +443,18 @@ end:
 }
 int max_x(int x,int y)
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int z;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	z=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	z=x>y?x:y;
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return z;
 }
 
@@ -464,54 +464,54 @@ int max_x(int x,int y)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	ÊäÈëÁ½¸öÕûÊı£¬ÒªÇóÒªÇóÓÃÒ»¸öº¯ÊıÇó³öÆäÖĞµÄ´óÕß£¬²¢ÔÚÖ÷º¯ÊıÖĞÊä³ö´ËÖµ¡£
-Ò»°ãĞÎÊ½£º	example3()
-²ÎÊıËµÃ÷£º	float a;
+å‡½æ•°åŠŸèƒ½:	è¾“å…¥ä¸¤ä¸ªæ•´æ•°ï¼Œè¦æ±‚è¦æ±‚ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å‡ºå…¶ä¸­çš„å¤§è€…ï¼Œå¹¶åœ¨ä¸»å‡½æ•°ä¸­è¾“å‡ºæ­¤å€¼ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example3()
+å‚æ•°è¯´æ˜ï¼š	float a;
 			float b;
 			int c;		
-·µ »Ø Öµ£º	ÕûÊı
-µ÷ÓÃĞÎÊ½£º	example1()
+è¿” å› å€¼ï¼š	æ•´æ•°
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
 */
-int max2(float x,float y);							//º¯Êıµ÷ÓÃÉùÃ÷
+int max2(float x,float y);							//å‡½æ•°è°ƒç”¨å£°æ˜
 int example7_3()
 {
-	//2.ÀıÌâ7.2	ÊäÈëÁ½¸öÕûÊı£¬ÒªÇóÒªÇóÓÃÒ»¸öº¯ÊıÇó³öÆäÖĞµÄ´óÕß£¬²¢ÔÚÖ÷º¯ÊıÖĞÊä³ö´ËÖµ¡£ p144
-	printf("3.ÀıÌâ7.2	ÊäÈëÁ½¸öÕûÊı£¬ÒªÇóÓÃÒ»¸öº¯ÊıÇó³öÆäÖĞµÄ´óÕß£¬²¢ÔÚÖ÷º¯ÊıÖĞÊä³ö´ËÖµ¡£ p144\n");
+	//2.ä¾‹é¢˜7.2	è¾“å…¥ä¸¤ä¸ªæ•´æ•°ï¼Œè¦æ±‚è¦æ±‚ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å‡ºå…¶ä¸­çš„å¤§è€…ï¼Œå¹¶åœ¨ä¸»å‡½æ•°ä¸­è¾“å‡ºæ­¤å€¼ã€‚ p144
+	printf("3.ä¾‹é¢˜7.2	è¾“å…¥ä¸¤ä¸ªæ•´æ•°ï¼Œè¦æ±‚ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å‡ºå…¶ä¸­çš„å¤§è€…ï¼Œå¹¶åœ¨ä¸»å‡½æ•°ä¸­è¾“å‡ºæ­¤å€¼ã€‚ p144\n");
 
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	float a;
 	float b;
 	int c;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	a=0;
 	b=0;
 	c=0;
 
-	//3.»ñÈ¡Êı¾İ
-	printf("ÇëÊäÈëÕûÊıa=");
+	//3.è·å–æ•°æ®
+	printf("è¯·è¾“å…¥æ•´æ•°a=");
 	scanf("%f",&a);
-	printf("ÇëÊäÈëÕûÊıb=");
+	printf("è¯·è¾“å…¥æ•´æ•°b=");
 	scanf("%f",&b);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	c=max2(a,b);
 
-	//5.Êä³öÊı¾İ
-	printf("Á½Êı£¨%f,%f£©ÖĞµÄ½Ï´óÊıÎª£º%d\n\n",a,b,c);
+	//5.è¾“å‡ºæ•°æ®
+	printf("ä¸¤æ•°ï¼ˆ%f,%fï¼‰ä¸­çš„è¾ƒå¤§æ•°ä¸ºï¼š%d\n\n",a,b,c);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -525,8 +525,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -546,18 +546,18 @@ end:
 }
 int max2(float x,float y)
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	float z;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	z=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	z=x>y?x:y;
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return z;
 }
 
@@ -567,13 +567,13 @@ int max2(float x,float y)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	¶Ô±»µ÷ÓÃµÄº¯Êı×÷ÉùÃ÷
-Ò»°ãĞÎÊ½£º	example4()
-²ÎÊıËµÃ÷£º		float a;
+å‡½æ•°åŠŸèƒ½:	å¯¹è¢«è°ƒç”¨çš„å‡½æ•°ä½œå£°æ˜
+ä¸€èˆ¬å½¢å¼ï¼š	example4()
+å‚æ•°è¯´æ˜ï¼š		float a;
 				float b;
 				float c;		
-·µ »Ø Öµ£º	ÕûÊı
-µ÷ÓÃĞÎÊ½£º	example4()
+è¿” å› å€¼ï¼š	æ•´æ•°
+è°ƒç”¨å½¢å¼ï¼š	example4()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 =============================================================================
@@ -586,39 +586,39 @@ float add(float x,float y)
 }
 int example7_4()
 {
-	//4.ÀıÌâ7.4	¶Ô±»µ÷ÓÃµÄº¯Êı×÷ÉùÃ÷¡£	p149
-	printf("4.ÀıÌâ7.4	¶Ô±»µ÷ÓÃµÄº¯Êı×÷ÉùÃ÷¡£	p149\n");
+	//4.ä¾‹é¢˜7.4	å¯¹è¢«è°ƒç”¨çš„å‡½æ•°ä½œå£°æ˜ã€‚	p149
+	printf("4.ä¾‹é¢˜7.4	å¯¹è¢«è°ƒç”¨çš„å‡½æ•°ä½œå£°æ˜ã€‚	p149\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	float a;
 	float b;
 	float c;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	a=0.0;
 	b=0.0;
 	c=0.0;
 
-	//3.»ñÈ¡Êı¾İ
-	printf("ÇëÊäÈëÊµÊıaµÄÖµ£º");
+	//3.è·å–æ•°æ®
+	printf("è¯·è¾“å…¥å®æ•°açš„å€¼ï¼š");
 	scanf("%f",&a);
-	printf("ÇëÊäÈëÊµÊıbµÄÖµ£º");
+	printf("è¯·è¾“å…¥å®æ•°bçš„å€¼ï¼š");
 	scanf("%f",&b);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	c=add(a,b);
 
-	//5.Êä³öÊı¾İ
-	printf("Á½¸öÊµÊı£¨%f,%f£©µÄºÍÎª£º%f\n\n",a,b,c);
+	//5.è¾“å‡ºæ•°æ®
+	printf("ä¸¤ä¸ªå®æ•°ï¼ˆ%f,%fï¼‰çš„å’Œä¸ºï¼š%f\n\n",a,b,c);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -632,8 +632,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -659,15 +659,15 @@ end:
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	ÊäÈëËÄ¸öÕûÊı£¬ÕÒ³öÆäÖĞ×î´óµÄÊı¡£
-Ò»°ãĞÎÊ½£º	example5()
-²ÎÊıËµÃ÷£º	int a;
+å‡½æ•°åŠŸèƒ½:	è¾“å…¥å››ä¸ªæ•´æ•°ï¼Œæ‰¾å‡ºå…¶ä¸­æœ€å¤§çš„æ•°ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example5()
+å‚æ•°è¯´æ˜ï¼š	int a;
 			int b;
 			int c;
 			int d;
 			int max;		
-·µ »Ø Öµ£º	ÕûÊı
-µ÷ÓÃĞÎÊ½£º	example5()
+è¿” å› å€¼ï¼š	æ•´æ•°
+è°ƒç”¨å½¢å¼ï¼š	example5()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -675,47 +675,47 @@ Date		Name		Create/Correct
 int max_4(int a,int b,int c,int d);
 int example7_5()
 {
-	//5.ÀıÌâ7.5	ÊäÈëËÄ¸öÕûÊı£¬ÕÒ³öÆäÖĞ×î´óµÄÊı¡£p152
-	printf("5.ÀıÌâ7.5	ÊäÈëËÄ¸öÕûÊı£¬ÕÒ³öÆäÖĞ×î´óµÄÊı¡£p152\n");
+	//5.ä¾‹é¢˜7.5	è¾“å…¥å››ä¸ªæ•´æ•°ï¼Œæ‰¾å‡ºå…¶ä¸­æœ€å¤§çš„æ•°ã€‚p152
+	printf("5.ä¾‹é¢˜7.5	è¾“å…¥å››ä¸ªæ•´æ•°ï¼Œæ‰¾å‡ºå…¶ä¸­æœ€å¤§çš„æ•°ã€‚p152\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int a;
 	int b;
 	int c;
 	int d;
 	int max;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	a=0;
 	b=0;
 	c=0;
 	d=0;
 	max=0;
 
-	//3.»ñÈ¡Êı¾İ
-	printf("ÇëÊäÈëÕûÊıa=");
+	//3.è·å–æ•°æ®
+	printf("è¯·è¾“å…¥æ•´æ•°a=");
 	scanf("%d",&a);		
-	printf("ÇëÊäÈëÕûÊıb=");
+	printf("è¯·è¾“å…¥æ•´æ•°b=");
 	scanf("%d",&b);
-	printf("ÇëÊäÈëÕûÊıc=");
+	printf("è¯·è¾“å…¥æ•´æ•°c=");
 	scanf("%d",&c);
-	printf("ÇëÊäÈëÕûÊıd=");
+	printf("è¯·è¾“å…¥æ•´æ•°d=");
 	scanf("%d",&d);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	max=max_4(a,b,c,d);
 
-	//5.Êä³öÊı¾İ
-	printf("ËÄ¸öÊı£¨%d,%d,%d,%d£©ÖĞ½Ï´óµÄÊıÎª%d\n\n",a,b,c,d,max);
+	//5.è¾“å‡ºæ•°æ®
+	printf("å››ä¸ªæ•°ï¼ˆ%d,%d,%d,%dï¼‰ä¸­è¾ƒå¤§çš„æ•°ä¸º%d\n\n",a,b,c,d,max);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -729,8 +729,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -770,11 +770,11 @@ int max_2(int x,int y)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	ÓĞÎå¸öÈË×øÔÚÒ»Æğ£¬´ÓµÚÎå¸öÈË¿ªÊ¼£¬ÒÀ´Î±ÈÏÂÒ»¸öÈË´óÁ½Ëê¡£ÒÑÖªµÚÒ»¸öÈËÊÇÊ®Ëê¡£ÎÊµÚÎå¸öÈË¶à´ó¡£
-Ò»°ãĞÎÊ½£º	example6()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	ÕûÊı
-µ÷ÓÃĞÎÊ½£º	example6()
+å‡½æ•°åŠŸèƒ½:	æœ‰äº”ä¸ªäººååœ¨ä¸€èµ·ï¼Œä»ç¬¬äº”ä¸ªäººå¼€å§‹ï¼Œä¾æ¬¡æ¯”ä¸‹ä¸€ä¸ªäººå¤§ä¸¤å²ã€‚å·²çŸ¥ç¬¬ä¸€ä¸ªäººæ˜¯åå²ã€‚é—®ç¬¬äº”ä¸ªäººå¤šå¤§ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example6()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	æ•´æ•°
+è°ƒç”¨å½¢å¼ï¼š	example6()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -782,28 +782,28 @@ Date		Name		Create/Correct
 int age(int n );
 int example7_6()
 {
-	//6.ÀıÌâ7.6	ÓĞÎå¸öÈË×øÔÚÒ»Æğ£¬´ÓµÚÎå¸öÈË¿ªÊ¼£¬ÒÀ´Î±ÈÏÂÒ»¸öÈË´óÁ½Ëê¡£ÒÑÖªµÚÒ»¸öÈËÊÇÊ®Ëê¡£ÎÊµÚÎå¸öÈË¶à´ó¡£p154
-	printf("6.ÀıÌâ7.6	ÓĞÎå¸öÈË×øÔÚÒ»Æğ£¬´ÓµÚÎå¸öÈË¿ªÊ¼£¬ÒÀ´Î±ÈÏÂÒ»¸öÈË´óÁ½Ëê¡£ÒÑÖªµÚÒ»¸öÈËÊÇÊ®Ëê¡£ÎÊµÚÎå¸öÈË¶à´ó¡£p154\n");
+	//6.ä¾‹é¢˜7.6	æœ‰äº”ä¸ªäººååœ¨ä¸€èµ·ï¼Œä»ç¬¬äº”ä¸ªäººå¼€å§‹ï¼Œä¾æ¬¡æ¯”ä¸‹ä¸€ä¸ªäººå¤§ä¸¤å²ã€‚å·²çŸ¥ç¬¬ä¸€ä¸ªäººæ˜¯åå²ã€‚é—®ç¬¬äº”ä¸ªäººå¤šå¤§ã€‚p154
+	printf("6.ä¾‹é¢˜7.6	æœ‰äº”ä¸ªäººååœ¨ä¸€èµ·ï¼Œä»ç¬¬äº”ä¸ªäººå¼€å§‹ï¼Œä¾æ¬¡æ¯”ä¸‹ä¸€ä¸ªäººå¤§ä¸¤å²ã€‚å·²çŸ¥ç¬¬ä¸€ä¸ªäººæ˜¯åå²ã€‚é—®ç¬¬äº”ä¸ªäººå¤šå¤§ã€‚p154\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	
-	//5.Êä³öÊı¾İ
-	printf("µÚÎå¸öÈËµÄÄêÁäÎª£º%d\n\n",age(5));
+	//5.è¾“å‡ºæ•°æ®
+	printf("ç¬¬äº”ä¸ªäººçš„å¹´é¾„ä¸ºï¼š%d\n\n",age(5));
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -817,8 +817,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -857,12 +857,12 @@ int age(int n)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	ÓÃµİ¹é·¨Çón£¡
-Ò»°ãĞÎÊ½£º	example7()
-²ÎÊıËµÃ÷£º		int n;
+å‡½æ•°åŠŸèƒ½:	ç”¨é€’å½’æ³•æ±‚nï¼
+ä¸€èˆ¬å½¢å¼ï¼š	example7()
+å‚æ•°è¯´æ˜ï¼š		int n;
 				int y;	
-·µ »Ø Öµ£º	ÕûÊı
-µ÷ÓÃĞÎÊ½£º	example7()
+è¿” å› å€¼ï¼š	æ•´æ•°
+è°ƒç”¨å½¢å¼ï¼š	example7()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -870,35 +870,35 @@ Date		Name		Create/Correct
 int fac(int n);
 int example7_7()
 {
-	//7.ÀıÌâ7.7	ÓÃµİ¹é·¨Çón£¡¡£p156
-	printf("7.ÀıÌâ7.7	ÓÃµİ¹é·¨Çón£¡¡£p156\n");
+	//7.ä¾‹é¢˜7.7	ç”¨é€’å½’æ³•æ±‚nï¼ã€‚p156
+	printf("7.ä¾‹é¢˜7.7	ç”¨é€’å½’æ³•æ±‚nï¼ã€‚p156\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int n;
 	int y;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	n=0;
 	y=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input an interger number:");
 	scanf("%d",&n);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	y=fac(n);
 
-	//5.Êä³öÊı¾İ
-	printf("%d£¡=%d\n\n",n,y);
+	//5.è¾“å‡ºæ•°æ®
+	printf("%dï¼=%d\n\n",n,y);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -912,8 +912,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -957,11 +957,11 @@ int fac(int n)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	HanoiËşÎÊÌâ¡£
-Ò»°ãĞÎÊ½£º	example8()
-²ÎÊıËµÃ÷£º	int n;		
-·µ »Ø Öµ£º	ÕûÊı£¬100¸öÊıµÄºÍ
-µ÷ÓÃĞÎÊ½£º	example8()
+å‡½æ•°åŠŸèƒ½:	Hanoiå¡”é—®é¢˜ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example8()
+å‚æ•°è¯´æ˜ï¼š	int n;		
+è¿” å› å€¼ï¼š	æ•´æ•°ï¼Œ100ä¸ªæ•°çš„å’Œ
+è°ƒç”¨å½¢å¼ï¼š	example8()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -969,34 +969,34 @@ Date		Name		Create/Correct
 void hanoi(int n, char one,char two,char three);
 int example7_8()
 {
-	//8.ÀıÌâ7.8	HanoiËşÎÊÌâ¡£p157
-	printf("8.ÀıÌâ7.8	HanoiËşÎÊÌâ¡£p157\n");
+	//8.ä¾‹é¢˜7.8	Hanoiå¡”é—®é¢˜ã€‚p157
+	printf("8.ä¾‹é¢˜7.8	Hanoiå¡”é—®é¢˜ã€‚p157\n");
 	
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int n;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	n=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input the number of the dishes:");
 	scanf("%d",&n);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("The steps to move the %d dishes are:\n",n);
 	hanoi(n,'A','B','C');
 	printf("\n");
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -1010,8 +1010,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -1054,11 +1054,11 @@ void move(char x,char y)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -1066,10 +1066,10 @@ Date		Name		Create/Correct
 int large(int x,int y);
 int example7_9()
 {
-	//9.ÀıÌâ7.9	ÓĞÁ½¸öÊı×éaºÍb£¬¸÷ÓĞÊ®¸öÔªËØ£¬½«ËüÃÇ¶ÔÓ¦µØÖğ¸ö±È½Ï¡£ÕÒ³öÆäÖĞµÄ½Ï´óÊı×é£¬²¢·Ö±ğÍ³¼Æ³öÁ½¸öÊı×éÏàÓ¦ÔªËØ´óÓÚ¡¢µÈÓÚºÍĞ¡ÓÚµÄ´ÎÊı¡£p160
-	printf("9.ÀıÌâ7.9	ÓĞÁ½¸öÊı×éaºÍb£¬¸÷ÓĞÊ®¸öÔªËØ£¬½«ËüÃÇ¶ÔÓ¦µØÖğ¸ö±È½Ï¡£ÕÒ³öÆäÖĞµÄ½Ï´óÊı×é£¬²¢·Ö±ğÍ³¼Æ³öÁ½¸öÊı×éÏàÓ¦ÔªËØ´óÓÚ¡¢µÈÓÚºÍĞ¡ÓÚµÄ´ÎÊı¡£p160\n");
+	//9.ä¾‹é¢˜7.9	æœ‰ä¸¤ä¸ªæ•°ç»„aå’Œbï¼Œå„æœ‰åä¸ªå…ƒç´ ï¼Œå°†å®ƒä»¬å¯¹åº”åœ°é€ä¸ªæ¯”è¾ƒã€‚æ‰¾å‡ºå…¶ä¸­çš„è¾ƒå¤§æ•°ç»„ï¼Œå¹¶åˆ†åˆ«ç»Ÿè®¡å‡ºä¸¤ä¸ªæ•°ç»„ç›¸åº”å…ƒç´ å¤§äºã€ç­‰äºå’Œå°äºçš„æ¬¡æ•°ã€‚p160
+	printf("9.ä¾‹é¢˜7.9	æœ‰ä¸¤ä¸ªæ•°ç»„aå’Œbï¼Œå„æœ‰åä¸ªå…ƒç´ ï¼Œå°†å®ƒä»¬å¯¹åº”åœ°é€ä¸ªæ¯”è¾ƒã€‚æ‰¾å‡ºå…¶ä¸­çš„è¾ƒå¤§æ•°ç»„ï¼Œå¹¶åˆ†åˆ«ç»Ÿè®¡å‡ºä¸¤ä¸ªæ•°ç»„ç›¸åº”å…ƒç´ å¤§äºã€ç­‰äºå’Œå°äºçš„æ¬¡æ•°ã€‚p160\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int n;
 	int m;
@@ -1078,13 +1078,13 @@ int example7_9()
 	int b[10];
 	char ch;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	m=0;
 	n=0;
 	i=0;
 	k=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("please input an array of a:\n");
 	for (i=0;i<10;i++)
 	{
@@ -1098,24 +1098,24 @@ int example7_9()
 		ch=getchar();
 	}
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=0;i<10;i++)
 	{
 		if (large(a[i],b[i])==1)
 		{
-			m++;					//Êı×éa´óÓÚÊı×ébµÄ´ÎÊı
+			m++;					//æ•°ç»„aå¤§äºæ•°ç»„bçš„æ¬¡æ•°
 		}
 		if (large(a[i],b[i])==0)
 		{
-			n++;					//Êı×éaµÈÓÚÊı×ébµÄ´ÎÊı
+			n++;					//æ•°ç»„aç­‰äºæ•°ç»„bçš„æ¬¡æ•°
 		}
 		if (large(a[i],b[i])==-1)
 		{
-			k++;					//Êı×éaĞ¡ÓÚÊı×ébµÄ´ÎÊı
+			k++;					//æ•°ç»„aå°äºæ•°ç»„bçš„æ¬¡æ•°
 		}
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("a[i]>b[i] %d times\n",m);
 	printf("a[i]=b[i] %d times\n",n);
 	printf("a[i]<b[i] %d times\n",k);
@@ -1132,14 +1132,14 @@ int example7_9()
 		printf("Array a is smaller than array b\n\n");
 	}
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -1153,8 +1153,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -1197,11 +1197,11 @@ int large(int x,int y)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -1209,20 +1209,20 @@ Date		Name		Create/Correct
 float	average(float array[]);
 int example7_10()
 {
-	//10.ÀıÌâ7.10	ÓĞÒ»¸öÒ»Î¬Êı×éscore,ÄÚ·ÅÊ®¸öÑ§Éú³É¼¨£¬ ÓÃÒ»¸öº¯ÊıÇóÆäÆ½¾ù³É¼¨¡£p161
-	printf("10.ÀıÌâ7.10	ÓĞÒ»¸öÒ»Î¬Êı×éscore,ÄÚ·ÅÊ®¸öÑ§Éú³É¼¨£¬ ÓÃÒ»¸öº¯ÊıÇóÆäÆ½¾ù³É¼¨¡£p161\n");
+	//10.ä¾‹é¢˜7.10	æœ‰ä¸€ä¸ªä¸€ç»´æ•°ç»„score,å†…æ”¾åä¸ªå­¦ç”Ÿæˆç»©ï¼Œ ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å…¶å¹³å‡æˆç»©ã€‚p161
+	printf("10.ä¾‹é¢˜7.10	æœ‰ä¸€ä¸ªä¸€ç»´æ•°ç»„score,å†…æ”¾åä¸ªå­¦ç”Ÿæˆç»©ï¼Œ ç”¨ä¸€ä¸ªå‡½æ•°æ±‚å…¶å¹³å‡æˆç»©ã€‚p161\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	float score[10];
 	int i;
 	float aver;
 	char ch;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	aver=0.0;
 	i=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input 10 students' grades:\n");
 	for (i=0;i<10;i++)
 	{
@@ -1230,20 +1230,20 @@ int example7_10()
 		ch=getchar();
 	}
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	aver=average(score);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("Averge score is %5.2f\n\n",aver);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -1257,8 +1257,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -1295,11 +1295,11 @@ float	average(float array[])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -1307,39 +1307,39 @@ Date		Name		Create/Correct
 float averge(float array[],int n);
 int example7_11()
 {
-	//1.ÀıÌâ7.1	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140
-	printf("11.ÀıÌâ7.11	\n");
+	//1.ä¾‹é¢˜7.1	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140
+	printf("11.ä¾‹é¢˜7.11	\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	float score_1[5]={98.5,97,91.5,60,55};
 	float score_2[10]={67.5,89.5,99,69.5,77,89.5,76.5,54,60,99.5};
 	float aver_1;
 	float aver_2;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	aver_1=0;
 	aver_2=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	aver_1=averge(score_1,5);
 	aver_2=averge(score_2,10);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("The average of class A is %6.2f\n",aver_1);
 	printf("The average of class b is %6.2f\n\n",aver_2);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -1353,8 +1353,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -1392,11 +1392,11 @@ float averge(float array[],int n)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -1404,18 +1404,18 @@ Date		Name		Create/Correct
 void sort(int array[],int n);
 int example7_12()
 {
-	//1.ÀıÌâ7.1	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140
-	printf("12.ÀıÌâ7.12	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140\n");
+	//1.ä¾‹é¢˜7.1	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140
+	printf("12.ä¾‹é¢˜7.12	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int a[10];
 	int i;
 	char ch;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input an array of 10 numbers:\n");
 	for (i=0;i<10;i++)
 	{
@@ -1423,10 +1423,10 @@ int example7_12()
 		ch=getchar();
 	}
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	sort(a,10);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("The order of the array is:\n");
 	for (i=0;i<10;i++)
 	{
@@ -1434,14 +1434,14 @@ int example7_12()
 	}
 	printf("\n\n");
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -1455,8 +1455,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -1502,11 +1502,11 @@ void sort(int array[],int n)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -1514,29 +1514,29 @@ Date		Name		Create/Correct
 int max_value(int array[][4]);
 int example7_13()
 {
-	//1.ÀıÌâ7.1	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140
-	printf("13.ÀıÌâ7.13	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140\n");
+	//1.ä¾‹é¢˜7.1	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140
+	printf("13.ä¾‹é¢˜7.13	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int a[3][4]={{1,3,5,7},{2,4,6,8},{15,17,34,12}};
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 
-	//5.Êä³öÊı¾İ
-	printf("Õâ¸ö3*4µÄ¶şÎ¬Êı×éµÄ×î´óÖµÎª£º%d\n\n",max_value(a));
+	//5.è¾“å‡ºæ•°æ®
+	printf("è¿™ä¸ª3*4çš„äºŒç»´æ•°ç»„çš„æœ€å¤§å€¼ä¸ºï¼š%d\n\n",max_value(a));
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -1550,8 +1550,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -1596,11 +1596,11 @@ int max_value(int array[][4])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -1610,20 +1610,20 @@ float Max=0;
 float Min=0;
 int example7_14()
 {
-	//1.ÀıÌâ7.1	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140
-	printf("14.ÀıÌâ7.14	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140\n");
+	//1.ä¾‹é¢˜7.1	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140
+	printf("14.ä¾‹é¢˜7.14	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	float aver;
 	float score[10];
 	char ch;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	aver=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("please input 10 students' grades:\n");
 	for (i=0;i<10;i++)
 	{
@@ -1631,20 +1631,20 @@ int example7_14()
 		ch=getchar();
 	}
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	aver=average_1(score,10);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("Max=%5.2f\nMin=%5.2f\naverage=%5.2f\n\n",Max,Min,aver);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -1658,8 +1658,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -1709,11 +1709,11 @@ float average_1(float array[],int n)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -1723,30 +1723,30 @@ int a_=3;
 int b_=5;
 int example7_15()
 {
-	//1.ÀıÌâ7.1	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140
-	printf("15.ÀıÌâ7.15	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140\n");
+	//1.ä¾‹é¢˜7.1	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140
+	printf("15.ä¾‹é¢˜7.15	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140\n");
 	
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int a_;
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	a_=8;
 	
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("max is %d\n\n",max_1(a_,b_));
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -1760,8 +1760,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -1787,12 +1787,12 @@ int max_1(int a_,int b_)
 }
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
-ÑµÁ·ÖØµã£º	¾²Ì¬¾Ö²¿±äÁ¿µÄÖµ
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
+è®­ç»ƒé‡ç‚¹ï¼š	é™æ€å±€éƒ¨å˜é‡çš„å€¼
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -1800,33 +1800,33 @@ Date		Name		Create/Correct
 int f(int);
 int example7_16()
 {
-	//1.ÀıÌâ7.1	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140
-	printf("16.ÀıÌâ7.16		p140\n");
+	//1.ä¾‹é¢˜7.1	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140
+	printf("16.ä¾‹é¢˜7.16		p140\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int a;
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	a=2;
 	i=0;
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	for (i=0;i<3;i++)
 	{
 		printf("%d\n\n",f(a));
 	}
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -1840,8 +1840,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -1861,31 +1861,31 @@ end:
 }
 int f(int a)
 {	
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	auto int b=0;
 	static int c=3;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 //	b=0;
 //	c=3;
 	
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	b++;
 	c++;
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return(a+b+c);
 
 }
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -1893,30 +1893,30 @@ Date		Name		Create/Correct
 int fac1(int m);
 int example7_17()
 {
-	//17.ÀıÌâ7.17	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£	p140
-	printf("17.ÀıÌâ7.17		p140\n");
+	//17.ä¾‹é¢˜7.17	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚	p140
+	printf("17.ä¾‹é¢˜7.17		p140\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ	//5.Êä³öÊı¾İ
+	//4.å¤„ç†æ•°æ®	//5.è¾“å‡ºæ•°æ®
 	for (i=1;i<=5;i++)
 	{
 		printf("%d!=%d\n",i,fac(i));
 	}
 	printf("\n");
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -1930,8 +1930,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -1951,15 +1951,15 @@ end:
 }
 int fac1(int m)
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	static int f=1;
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	f=f*m;
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return(f);
 }
 
@@ -1970,11 +1970,11 @@ int fac1(int m)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -1982,20 +1982,20 @@ Date		Name		Create/Correct
 int max3();
 int example7_18()
 {
-	//1.ÀıÌâ
-	printf("18.ÀıÌâ7.18		\n");
+	//1.ä¾‹é¢˜
+	printf("18.ä¾‹é¢˜7.18		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	extern	int A;
 	extern	int B;
 	extern	int C;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	A=0;
 	B=0;
 	C=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input A:");
 	scanf("%d",&A);
 	printf("Please input B:");
@@ -2003,19 +2003,19 @@ int example7_18()
 	printf("Please input C:");
 	scanf("%d",&C);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("Max is %d\n\n",max3());
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -2029,8 +2029,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -2049,7 +2049,7 @@ end:
 	return 0;
 }
 
-int A;				//¶¨ÒåÍâ²¿±äÁ¿
+int A;				//å®šä¹‰å¤–éƒ¨å˜é‡
 int B;
 int C;
 int max3()
@@ -2071,11 +2071,11 @@ int max3()
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -2084,42 +2084,42 @@ int D;
 int power(int n);
 int example7_19()
 {
-	//1.ÀıÌâ
-	printf("19.ÀıÌâ7.19		\n");
+	//1.ä¾‹é¢˜
+	printf("19.ä¾‹é¢˜7.19		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int b;
 	int c;
 	int d;
 	int m;
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	b=3;
 	c=0;
 	d=0;
 	m=0;
 	
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input the number of D:");
 	scanf("%d",&D);
 	printf("Please input the number of m:");
 	scanf("%d",&m);
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	c=D*b;
 	d=power(m);
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("%d*%d=%d\n",D,b,c);
 	printf("%d^%d=%d\n\n",D,m,d);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -2133,8 +2133,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -2168,11 +2168,11 @@ int power(int n)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -2182,35 +2182,35 @@ extern void delete_string(char str[],char ch);
 extern void print_string(char str[]);
 int example7_20()
 {
-	//1.ÀıÌâ
-	printf("20.ÀıÌâ7.20		\n");
+	//1.ä¾‹é¢˜
+	printf("20.ä¾‹é¢˜7.20		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	char c;
 	char str[80];
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	c=0;
 	
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	enter_string(str);
 	scanf("%c",&c);
 	
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	delete_string(str,c);
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	print_string(str);
 	printf("\n");
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -2224,8 +2224,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -2271,11 +2271,11 @@ void delete_string(char str[],char ch)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -2284,43 +2284,43 @@ int hcf(int x,int y);
 int lcd(int x,int y,int z);
 int exercise7_1()
 {
-	//1.Ï°Ìâ
-	printf("1.Ï°Ìâ7.1		\n");
+	//1.ä¹ é¢˜
+	printf("1.ä¹ é¢˜7.1		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int u;
 	int v;
 	int h;
 	int l;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	u=0;
 	v=0;
 	h=0;
 	l=0;
 	
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input an interger u:");
 	scanf("%d",&u);
 	printf("Please input an interger v:");
 	scanf("%d",&v);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	h=hcf(u,v);
 	l=lcd(u,v,h);
 	
-	//5.Êä³öÊı¾İ
-	printf("H.C.F(×î´ó¹«Ô¼Êı)=%d\n",h);
-	printf("L.C.D(×îĞ¡¹«±¶Êı)=%d\n\n",l);
+	//5.è¾“å‡ºæ•°æ®
+	printf("H.C.F(æœ€å¤§å…¬çº¦æ•°)=%d\n",h);
+	printf("L.C.D(æœ€å°å…¬å€æ•°)=%d\n\n",l);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -2334,8 +2334,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -2355,17 +2355,17 @@ end:
 }
 int hcf(int x,int y)
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int t;
 	int r;
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	t=0;
 	r=0;
 	
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	if (x<y)
 	{
 		t=y;
@@ -2378,7 +2378,7 @@ int hcf(int x,int y)
 		y=r;
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return(y);
 }
 int lcd(int x,int y,int z)
@@ -2394,11 +2394,11 @@ int lcd(int x,int y,int z)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -2414,21 +2414,21 @@ void smaller_than_zero(float,float);
 #include <math.h>
 int exercise7_2()
 {
-	//1.ÀıÌâ
-	printf("2.Ï°Ìâ7.2		\n");
+	//1.ä¾‹é¢˜
+	printf("2.ä¹ é¢˜7.2		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	float a;
 	float b;
 	float c;
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	a=0.0;
 	b=0.0;
 	c=0.0;
 	
-	//3.»ñÈ¡Êı¾İ
-	printf("ÇëÊäÈëÒ»Ôª¶ş´Î·½³ÌµÄÏµÊı£º\n");
+	//3.è·å–æ•°æ®
+	printf("è¯·è¾“å…¥ä¸€å…ƒäºŒæ¬¡æ–¹ç¨‹çš„ç³»æ•°ï¼š\n");
 	printf("a=");
 	scanf("%f",&a);
 	printf("b=");
@@ -2437,7 +2437,7 @@ int exercise7_2()
 	scanf("%f",&c);
 	printf("equation:%fx^2+%fx+%f=0\n",a,b,c);
 
-	//4.´¦ÀíÊı¾İ	//5.Êä³öÊı¾İ
+	//4.å¤„ç†æ•°æ®	//5.è¾“å‡ºæ•°æ®
 	di_sc=b*b-4*a*c;
 	printf("The roots are:\n");
 
@@ -2457,14 +2457,14 @@ int exercise7_2()
 		printf("x_1=%f+%fi\tx_2=%f-%fi\n\n",p_,q_,p_,q_);
 	}
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -2478,8 +2478,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -2519,11 +2519,11 @@ void smaller_than_zero(float a,float b)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -2531,20 +2531,20 @@ Date		Name		Create/Correct
 int prime(int );
 int exercise7_3()
 {
-	//1.ÀıÌâ
-	printf("3.Ï°Ìâ7.3		\n");
+	//1.ä¾‹é¢˜
+	printf("3.ä¹ é¢˜7.3		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int n;
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	n=0;
 	
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input an interger n:");
 	scanf("%d",&n);
 	
-	//4.´¦ÀíÊı¾İ	//5.Êä³öÊı¾İ
+	//4.å¤„ç†æ•°æ®	//5.è¾“å‡ºæ•°æ®
 	if (prime(n))
 	{
 		printf("%d is a prime.\n\n",n);
@@ -2554,14 +2554,14 @@ int exercise7_3()
 		printf("%d is not a prime.\n\n",n);
 	}	
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -2575,8 +2575,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -2615,11 +2615,11 @@ int prime(int n)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -2627,20 +2627,20 @@ Date		Name		Create/Correct
 void convert(int array[3][3]);
 int exercise7_4()
 {
-	//1.ÀıÌâ
-	printf("4.Ï°Ìâ7.4		\n");
+	//1.ä¾‹é¢˜
+	printf("4.ä¹ é¢˜7.4		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int j;
 	int array[3][3];
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	j=0;
 	
-	//3.»ñÈ¡Êı¾İ
-	printf("Please input an array of(3*3):(×¢ÒâÊäÈë¸ñÊ½)\n");
+	//3.è·å–æ•°æ®
+	printf("Please input an array of(3*3):(æ³¨æ„è¾“å…¥æ ¼å¼)\n");
 	for (i=0;i<3;i++)
 	{
 		for (j=0;j<3;j++)
@@ -2649,10 +2649,10 @@ int exercise7_4()
 		}
 	}
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	convert(array);
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("Covert array:\n");
 	for (i=0;i<3;i++)
 	{
@@ -2664,14 +2664,14 @@ int exercise7_4()
 	}
 	printf("\n");
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -2685,8 +2685,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -2726,11 +2726,11 @@ void convert(int array[3][3])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -2739,33 +2739,33 @@ Date		Name		Create/Correct
 void inverse(char str[]);
 int exercise7_5()
 {
-	//1.ÀıÌâ
-	printf("5.Ï°Ìâ7.5		\n");
+	//1.ä¾‹é¢˜
+	printf("5.ä¹ é¢˜7.5		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	char str[100];
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input string:\n");
 	scanf("%s",str);
 	
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	inverse(str);
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("Inverse string:\n");
 	printf("%s\n\n",str);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -2779,8 +2779,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -2820,11 +2820,11 @@ void inverse(char str[])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -2832,37 +2832,37 @@ Date		Name		Create/Correct
 void concatenate(char string1[],char string2[],char string[]);
 int exercise7_6()
 {
-	//1.ÀıÌâ
-	printf("6.Ï°Ìâ7.6		\n");
+	//1.ä¾‹é¢˜
+	printf("6.ä¹ é¢˜7.6		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	char string1[100];
 	char string2[100];
 	char string[100];
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Input string1:\n");
 	scanf("%s",string1);
 	printf("Input string2:\n");
 	scanf("%s",string2);
 	
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	concatenate(string1,string2,string);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("\nThe new string :\n");
 	printf("%s\n\n",string);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -2876,8 +2876,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -2897,17 +2897,17 @@ end:
 }
 void concatenate(char string1[],char string2[],char string[])
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int j;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	j=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=0;string1[i]!='\0';i++)
 	{
 		string[i]=string1[i];
@@ -2918,7 +2918,7 @@ void concatenate(char string1[],char string2[],char string[])
 	}
 	string[i+j]='\0';
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 }
 
 
@@ -2929,11 +2929,11 @@ void concatenate(char string1[],char string2[],char string[])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -2942,36 +2942,36 @@ void copy(char s[],char c[]);
 #include <string.h>
 int exercise7_7()
 {
-	//1.ÀıÌâ
-	printf("7.Ï°Ìâ7.7		\n");
+	//1.ä¾‹é¢˜
+	printf("7.ä¹ é¢˜7.7		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	char str[80];	
 	char c[80];
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("please input a string:\n");
 //	gets(str);
 	scanf("%s",str);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	copy(str,c);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("\nThe vowel letters are :\n");
 	puts(c);
 	printf("\n");
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -2985,8 +2985,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -3006,15 +3006,15 @@ end:
 }
 void copy(char s[],char c[])
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int j;
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	j=0;
 	
-	//3.»ñÈ¡Êı¾İ	//4.´¦ÀíÊı¾İ
+	//3.è·å–æ•°æ®	//4.å¤„ç†æ•°æ®
 	for (i=0,j=0;s[i]!='\0';i++)
 	{
 		if (s[i]=='a'||s[i]=='A'||s[i]=='e'||s[i]=='E'||s[i]=='i'||s[i]=='I'||s[i]=='o'||s[i]=='O'||s[i]=='u'||s[i]=='U')
@@ -3025,7 +3025,7 @@ void copy(char s[],char c[])
 	}
 	c[j]='\0';
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 }
 
 
@@ -3033,11 +3033,11 @@ void copy(char s[],char c[])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -3046,31 +3046,31 @@ void insert(char s[]);
 #include <string.h>
 int exercise7_8()
 {
-	//1.ÀıÌâ
-	printf("8.Ï°Ìâ7.8		\n");
+	//1.ä¾‹é¢˜
+	printf("8.ä¹ é¢˜7.8		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	char str[80];
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input 4 digits:\n");
 	scanf("%s",str);
 	
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	insert(str);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -3084,8 +3084,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -3105,21 +3105,21 @@ end:
 }
 void insert(char s[])
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=strlen(s);i>0;i--)
 	{
 		s[2*i]=s[i];
 		s[2*i-1]=' ';
 	}
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("output :%s\n\n",s);
 }
 
@@ -3131,62 +3131,62 @@ void insert(char s[])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
 */
-int letter;															//¶¨ÒåÈ«¾Ö±äÁ¿
+int letter;															//å®šä¹‰å…¨å±€å˜é‡
 int	digit;
 int space;
 int others;
 void count(char s[]);
-#include <string.h>												//º¯ÊıÉùÃ÷
+#include <string.h>												//å‡½æ•°å£°æ˜
 int exercise7_9()
 {
-	//1.ÀıÌâ
-	printf("9.Ï°Ìâ7.9		\n");
+	//1.ä¾‹é¢˜
+	printf("9.ä¹ é¢˜7.9		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	char text[80];
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	letter=0;
 	digit=0;
 	space=0;
 	others=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	fflush(stdin);
 	fflush(stdout);
 	printf("Please input string :\n");
 	gets(text);
 	//scanf("%s",text);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	printf("String:\n");
 	printf("%s",text);
 //	puts(text);
 	count(text);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("\nletter:%d\n",letter);
 	printf("digit:%d\n",digit);
 	printf("space:%d\n",space);
 	printf("others:%d\n\n",others);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -3200,8 +3200,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -3221,14 +3221,14 @@ end:
 }
 void count(char s[])
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=0;s[i]!='\0';i++)
 	{
 		if (s[i]==32)
@@ -3249,7 +3249,7 @@ void count(char s[])
 		}
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 
 }
 
@@ -3260,11 +3260,11 @@ void count(char s[])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -3274,16 +3274,16 @@ int longst(char string[]);
 #include <string.h>
 int exercise7_10()
 {
-	//1.ÀıÌâ
-	printf("10.Ï°Ìâ7.10		\n");
+	//1.ä¾‹é¢˜
+	printf("10.ä¹ é¢˜7.10		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	char line[100];
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	fflush(stdin);
 	fflush(stdout);
 	printf("Input a line:\n");
@@ -3291,9 +3291,9 @@ int exercise7_10()
 	gets(line);
 	printf("%s\n\n",line);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("The longst word is:\n");
 	for (i=longst(line);alphbetic(line[i]);i++)
 	{
@@ -3301,14 +3301,14 @@ int exercise7_10()
 	}
 	printf("\n\n");
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -3322,8 +3322,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -3343,13 +3343,13 @@ end:
 }
 int alphbetic(char c)
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	if ((c>='a'&&c<='z')||(c>='A'&&c<='Z'))
 	{
 		return(1);
@@ -3359,12 +3359,12 @@ int alphbetic(char c)
 		return(0);
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 }
 int longst(char string[])
 {
 	
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int len;
 	int length;
 	int flag;
@@ -3372,7 +3372,7 @@ int longst(char string[])
 	int point;
 	int i;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	len=0;
 	length=0;
 	flag=0;
@@ -3380,9 +3380,9 @@ int longst(char string[])
 	point=0;
 	i=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=0;i<=strlen(string);i++)
 	{	
 		if (alphbetic(string[i]))
@@ -3409,7 +3409,7 @@ int longst(char string[])
 		}
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return(place);
 }
 
@@ -3418,11 +3418,11 @@ int longst(char string[])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -3432,17 +3432,17 @@ void sort(char s[]);
 #include <string.h>
 int exercise7_11()
 {
-	//1.ÀıÌâ
-	printf("11.Ï°Ìâ7.11		\n");
+	//1.ä¾‹é¢˜
+	printf("11.ä¹ é¢˜7.11		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int flag;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	fflush(stdin);
 	fflush(stdout);
 	for (flag=1;flag==1;)
@@ -3457,24 +3457,24 @@ int exercise7_11()
 		}
 	}
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	sort(str);
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("The sorted string is:\n");
 	for (i=0;i<10;i++)
 	{
 		printf("%c",str[i]);
 	}
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -3488,8 +3488,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -3509,18 +3509,18 @@ end:
 }
 void sort(char s[])
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int j;
 	char t;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	j=0;
 	
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (j=1;j<10;j++)
 	{
 		for (i=0;(i<10-j)&&(s[i]!='\0');i++)
@@ -3534,7 +3534,7 @@ void sort(char s[])
 		}
 	}
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 }
 
 
@@ -3544,11 +3544,11 @@ void sort(char s[])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -3556,22 +3556,22 @@ Date		Name		Create/Correct
 float solut(float a,float b,float c,float d);
 int exercise7_12()
 {
-	//1.ÀıÌâ
-	printf("12.Ï°Ìâ7.12		\n");
+	//1.ä¾‹é¢˜
+	printf("12.ä¹ é¢˜7.12		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	float a;
 	float b;
 	float c;
 	float d;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	a=0.0;
 	b=0.0;
 	c=0.0;
 	d=0.0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input an float a:");
 	scanf("%f",&a);
 	printf("Please input an float b:");
@@ -3580,22 +3580,22 @@ int exercise7_12()
 	scanf("%f",&c);
 	printf("Please input an float d:");
 	scanf("%f",&d);
-	printf("\nËùÊäÈëµÄº¯ÊıÊÇ£ºf(x)=%dx^3+%dx^2+%dx%d",a,b,c,d);
-	printf("\nËùÊäÈëµÄº¯ÊıµÄµ¼ÊıÊÇ£ºf'(x)=3x^2+6x+3");
+	printf("\næ‰€è¾“å…¥çš„å‡½æ•°æ˜¯ï¼šf(x)=%dx^3+%dx^2+%dx%d",a,b,c,d);
+	printf("\næ‰€è¾“å…¥çš„å‡½æ•°çš„å¯¼æ•°æ˜¯ï¼šf'(x)=3x^2+6x+3");
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("The answer is :%f\n\n",solut(a,b,c,d));
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -3609,8 +3609,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -3630,21 +3630,21 @@ end:
 }
 float solut(float a,float b,float c,float d)
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	float x;
 	float x0;
 	float f;
 	float f1;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	x=1;
 	x0=0.0;
 	f=0.0;
 	f1=0.0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	do 
 	{
 		x0=x;
@@ -3654,7 +3654,7 @@ float solut(float a,float b,float c,float d)
 	}
 	while (fabs(x-x0)>=1e-3);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return (x);
 }
 
@@ -3666,11 +3666,11 @@ float solut(float a,float b,float c,float d)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -3687,23 +3687,23 @@ void aver_stu();//void
 void aver_cour();//void
 int exercise7_13()
 {
-	//1.ÀıÌâ
-	printf("13.Ï°Ìâ7.13		\n");
+	//1.ä¾‹é¢˜
+	printf("13.ä¹ é¢˜7.13		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int j;
 	float h;
 	
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	j=0;
 	h=0.0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	input_stu();
 	
-	//4.´¦ÀíÊı¾İ	//5.Êä³öÊı¾İ
+	//4.å¤„ç†æ•°æ®	//5.è¾“å‡ºæ•°æ®
 	aver_stu();
 	aver_cour();
 	printf("\nNO.	court1 court2 court3	court4 court5 aver\n");
@@ -3726,14 +3726,14 @@ int exercise7_13()
 	printf("highest:%7.2f		NO.%2d		course%2d\n",h,r,c);
 	printf("variance%8.2f\n\n",s_var());
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -3747,8 +3747,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -3769,17 +3769,17 @@ end:
 }
 void input_stu()//void
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int j;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	j=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=0;i<10;i++)
 	{
 		printf("\ninput the score of %2d:\n",i+1);
@@ -3788,23 +3788,23 @@ void input_stu()//void
 			scanf("%f",&score[i][j]);
 		}
 	}
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 }
 void aver_stu()//void
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int j;
 	float s;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	j=0;
 	s=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=0;i<10;i++)
 	{
 		for (j=0,s=0;j<5;j++)
@@ -3814,22 +3814,22 @@ void aver_stu()//void
 		}
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 }
 void aver_cour()//void
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int j;
 	float s;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	j=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (j=0;j<5;j++)
 	{
 		s=0;
@@ -3840,24 +3840,24 @@ void aver_cour()//void
 		a_cour[j]=s/10.0;
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	
 }
 float highest()
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int j;
 	float high;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	j=0;
 	high=score[0][0];
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=0;i<10;i++)
 	{
 		for (j=0;j<5;j++)
@@ -3871,30 +3871,30 @@ float highest()
 		}
 	}
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return (high);
 }
 float s_var()//void
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	float sumx;
 	float sumxn;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	sumx=0.0;
 	sumxn=0.0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=0;i<10;i++)
 	{
 		sumx+=a_stu[i]*a_stu[i];
 		sumxn+=a_stu[i];
 	}
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return(sumx/10-(sumxn/10)*(sumxn/10));
 }
 
@@ -3904,11 +3904,11 @@ float s_var()//void
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -3918,23 +3918,23 @@ void sort(int num[10],char name[10][8]);
 void search(int n,int num[10],char name[10][8]);
 int exercise7_14()
 {
-	//1.ÀıÌâ
-	printf("14.Ï°Ìâ7.14		\n");
+	//1.ä¾‹é¢˜
+	printf("14.ä¹ é¢˜7.14		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int num[10];
 	int number;
 	int flag;
 	int c;
 	char name[10][8];
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	flag=1;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	input(num,name);
 
-	//4.´¦ÀíÊı¾İ	//5.Êä³öÊı¾İ
+	//4.å¤„ç†æ•°æ®	//5.è¾“å‡ºæ•°æ®
 	sort(num,name);
 	while (flag==1)
 	{
@@ -3950,14 +3950,14 @@ int exercise7_14()
 		flag=0;
 	}
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -3971,8 +3971,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -3992,12 +3992,12 @@ end:
 }
 void input(int num[10],char name[10][8])
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	for (i=0;i<10;i++)
 	{
 		printf("input NO.:");
@@ -4007,24 +4007,24 @@ void input(int num[10],char name[10][8])
 		gets(name[i]);
 	}
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 }
 void sort(int num[10],char name[10][8])
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int j;
 	int min;
 	int temp1;
 	char temp2[8];
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=0;i<9;i++)
 	{
 		min=i;
@@ -4043,7 +4043,7 @@ void sort(int num[10],char name[10][8])
 		}
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("\nResult:\n");
 	for (i=0;i<10;i++)
 	{
@@ -4053,22 +4053,22 @@ void sort(int num[10],char name[10][8])
 }
 void search(int n,int num[10],char name[10][8])
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int top;
 	int bott;
 	int mid;
 	int sign;
 	int loca;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	top=0;
 	bott=9;
 	loca=0;
 	sign=1;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	if ((n<num[0])||(n>num[9]))
 	{
 		loca=-1;
@@ -4096,7 +4096,7 @@ void search(int n,int num[10],char name[10][8])
 		printf("%d not been found.\n\n",n);
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 }
 
 
@@ -4106,11 +4106,11 @@ void search(int n,int num[10],char name[10][8])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -4118,22 +4118,22 @@ Date		Name		Create/Correct
 int htoi(char s[]);
 int exercise7_15()
 {
-	//1.ÀıÌâ
-	printf("15.Ï°Ìâ7.15		\n");
+	//1.ä¾‹é¢˜
+	printf("15.ä¹ é¢˜7.15		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int c;
 	int flag;
 	int flag1;
 	char t[1000];
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	flag=0;
 	flag1=0;
 
-	//3.»ñÈ¡Êı¾İ	//4.´¦ÀíÊı¾İ	//5.Êä³öÊı¾İ
+	//3.è·å–æ•°æ®	//4.å¤„ç†æ•°æ®	//5.è¾“å‡ºæ•°æ®
 	printf("Please input a hex number:");
 	while ((c=getchar())!='\0'&&(i<1000)&&(flag1))
 	{
@@ -4161,14 +4161,14 @@ int exercise7_15()
 		}
 	}
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -4182,8 +4182,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -4203,17 +4203,17 @@ end:
 }
 int htoi(char s[])
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 	int n;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	i=0;
 	n=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=0;s[i]!='\0';i++)
 	{
 		if (s[i]>='0'&&s[i]<='9')
@@ -4230,7 +4230,7 @@ int htoi(char s[])
 		}
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 
 	return (n);
 }
@@ -4243,11 +4243,11 @@ int htoi(char s[])
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -4255,24 +4255,24 @@ Date		Name		Create/Correct
 int max1_4(int a,int b,int c,int d);
 int exercise7_16()
 {
-	//1.ÀıÌâ
-	printf("16.Ï°Ìâ7.16		\n");
+	//1.ä¾‹é¢˜
+	printf("16.ä¹ é¢˜7.16		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int a;
 	int b;
 	int c;
 	int d;
 	int max;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	a=0;
 	b=0;
 	c=0;
 	d=0;
 	max=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input an interger number a=\n");
 	scanf("%d",&a);
 	printf("Please input an interger number b=\n");
@@ -4282,20 +4282,20 @@ int exercise7_16()
 	printf("Please input an interger number d=\n");
 	scanf("%d",&d);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	max=max_4(a,b,c,d);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("Max is %d\n\n",max);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -4309,8 +4309,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -4332,32 +4332,32 @@ end:
 int max1_2(int a,int b);
 int max1_4(int a,int b,int c,int d)
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int m;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	m=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	m=max_2(max_2(max_2(a,b),c),d);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return (m);
 
 }
 int max1_2(int a,int b)
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return(a>b?a:b);
 }
 
@@ -4367,11 +4367,11 @@ int max1_2(int a,int b)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -4379,21 +4379,21 @@ Date		Name		Create/Correct
 void convert(int n);
 int exercise7_17()
 {
-	//1.ÀıÌâ
-	printf("17.Ï°Ìâ7.17		\n");
+	//1.ä¾‹é¢˜
+	printf("17.ä¹ é¢˜7.17		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int number;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	number=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input an interger:");
 	scanf("%d",&number);
 	printf("output:");
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	if (number<0)
 	{
 		putchar('-');
@@ -4402,17 +4402,17 @@ int exercise7_17()
 	}
 	convert(number);
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("\n\n");
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -4426,8 +4426,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -4447,15 +4447,15 @@ end:
 }
 void convert(int n)
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int i;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 //	i=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	if ((i=n/10)!=0)
 	{
 		convert(i);
@@ -4463,7 +4463,7 @@ void convert(int n)
 		putchar(32);
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 }
 
 
@@ -4473,11 +4473,11 @@ void convert(int n)
 
 /*
 ===============================================================================
-º¯Êı¹¦ÄÜ:	º¯Êıµ÷ÓÃµÄ¼òµ¥Àı×Ó¡£
-Ò»°ãĞÎÊ½£º	example1()
-²ÎÊıËµÃ÷£º			
-·µ »Ø Öµ£º	×Ö·û
-µ÷ÓÃĞÎÊ½£º	example1()
+å‡½æ•°åŠŸèƒ½:	å‡½æ•°è°ƒç”¨çš„ç®€å•ä¾‹å­ã€‚
+ä¸€èˆ¬å½¢å¼ï¼š	example1()
+å‚æ•°è¯´æ˜ï¼š			
+è¿” å› å€¼ï¼š	å­—ç¬¦
+è°ƒç”¨å½¢å¼ï¼š	example1()
 Date		Name		Create/Correct
 2012_12_21	liweikang	create
 ===============================================================================
@@ -4486,22 +4486,22 @@ int sum_day(int month,int day);
 int leap(int year);
 int exercise7_18()
 {
-	//1.ÀıÌâ
-	printf("18.Ï°Ìâ7.18		\n");
+	//1.ä¾‹é¢˜
+	printf("18.ä¹ é¢˜7.18		\n");
 
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int year;
 	int month;
 	int day;
 	int days;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 	year=0;
 	month=0;
 	day=0;
 	days=0;
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 	printf("Please input the date(year,month,day):\n");
 	printf("year:");
 	scanf("%d",&year);
@@ -4511,24 +4511,24 @@ int exercise7_18()
 	scanf("%d",&day);
 	printf("%d/%d/%d",year,month,day);
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	days=sum_day(month,day);
 	if (leap(year)&&month>=3)
 	{
 		days=days+1;
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	printf("is the %dth day in this year.\n",days);
 
-	//¹¹ÔìÑ­»·½çÃæ
+	//æ„é€ å¾ªç¯ç•Œé¢
 start:
 	printf("****************\n");
-	printf("*1.·µ»ØÖ÷²Ëµ¥¡£*\n");
-	printf("*2.·µ»Ø¸ù²Ëµ¥¡£*\n");
-	printf("*3.ÍË³ö¡£      *\n");
+	printf("*1.è¿”å›ä¸»èœå•ã€‚*\n");
+	printf("*2.è¿”å›æ ¹èœå•ã€‚*\n");
+	printf("*3.é€€å‡ºã€‚      *\n");
 	printf("****************\n");
-	printf("ÇëÊäÈëÄúµÄÑ¡Ôñ£º");
+	printf("è¯·è¾“å…¥æ‚¨çš„é€‰æ‹©ï¼š");
 	scanf("%d",&choose7);
 	switch(choose7)
 	{
@@ -4542,8 +4542,8 @@ start:
 
 		case 3:	goto end;
 				
-		default:printf("ÊäÈëÓĞÎó£¬ÊÇ·ñÖØĞÂÊäÈë£¿£¨y/n£©\n");
-				printf("ÇëÑ¡Ôñ£º");
+		default:printf("è¾“å…¥æœ‰è¯¯ï¼Œæ˜¯å¦é‡æ–°è¾“å…¥ï¼Ÿï¼ˆy/nï¼‰\n");
+				printf("è¯·é€‰æ‹©ï¼š");
 				getchar();
 				scanf("%c",&choos7);
 				if (choos7=='y'||choos7=='Y')
@@ -4564,33 +4564,33 @@ end:
 }
 int sum_day(int month,int day)
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int day_tab[13]={0,31,28,31,30,31,30,31,31,30,31,30,31};
 	int i;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	for (i=1;i<month;i++)
 	{
 		day+=day_tab[i];
 	}
 
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return(day);
 }
 int leap(int year)
 {
-	//1.¶¨Òå±äÁ¿ÀàĞÍ
+	//1.å®šä¹‰å˜é‡ç±»å‹
 	int leap;
 
-	//2.±äÁ¿¸³³õÖµ
+	//2.å˜é‡èµ‹åˆå€¼
 
-	//3.»ñÈ¡Êı¾İ
+	//3.è·å–æ•°æ®
 
-	//4.´¦ÀíÊı¾İ
+	//4.å¤„ç†æ•°æ®
 	if ((year%4==0&year%100!=0)||(year%400==0))
 	{
 		leap=1;
@@ -4600,7 +4600,7 @@ int leap(int year)
 		leap=0;
 	}
 	
-	//5.Êä³öÊı¾İ
+	//5.è¾“å‡ºæ•°æ®
 	return(leap);
 }
 
